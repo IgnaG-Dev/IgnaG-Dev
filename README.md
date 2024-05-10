@@ -19,7 +19,7 @@
 - :technologist: Me encanta usar el Software como una solucion de los `Problemas`.
 - :nerd_face: Siempre `aprendiendo nuevas cosas`.
 - 🔎 Estoy abierto a `oportunidades de trabajos`, este es [MI CV](https://drive.google.com/file/d/1taPmJeAgKdgIuItAOhRsq4_sm0x5q8B2/view?usp=drive_link).
-- 🔥 Visita mi portafolio [AQUÍ](https://drive.google.com/drive/folders/1veVafBQodJwnaCYWvvh5G5yyQHVxgAWE?usp=sharing).
+- 🔥 Visita mi portafolio [AQUÍ](https://portafolio-ignacio-gauto.netlify.app/).
 <br>
 
 <!--mis tecnologias-->
