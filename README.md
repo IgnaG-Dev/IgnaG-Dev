@@ -1,70 +1,58 @@
-
-<!--presentacion-->
+<!--presentación-->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">👋 Hola, mi nombre es Gauto Ignacio</h1>
+      <h1 style="display: inline-block">👋 Hola, soy Ignacio Gauto</h1>
+      <h3 style="display: inline-block; color: #58a6ff">Analista de Sistemas | Estudiante de Licenciatura</h3>
     </summary>
   </ul>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
 <br><br>
 
-- 📚 Soy `estudiante` de [licenciatura en sistemas de la información](https://exa.unne.edu.ar/r/?page_id=8390) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
-- :student: Recientemente aprendiendo `Analisis en Sistemas` y `Licenciatura en Sistemas`.
-- :technologist: Me encanta usar el Software como una solucion de los `Problemas`.
-- :nerd_face: Siempre `aprendiendo nuevas cosas`.
-- 🔎 Estoy abierto a `oportunidades de trabajos`, este es [MI CV](https://drive.google.com/file/d/1taPmJeAgKdgIuItAOhRsq4_sm0x5q8B2/view?usp=drive_link).
-- 🔥 Visita mi portafolio [AQUÍ](https://portafolio-ignacio-gauto.netlify.app/).
+- 🎓 **Analista de Sistemas** certificado, actualmente cursando la [Licenciatura en Sistemas de la Información](https://exa.unne.edu.ar/r/?page_id=8390) en la [UNNE](https://www.unne.edu.ar/)
+- 💡 Especial interés en **análisis de requerimientos** y **desarrollo de soluciones eficientes**
+- 🛠️ Enfoque práctico para resolver problemas mediante **tecnologías innovadoras**
+- 📊 Capacidad para **analizar sistemas** y proponer mejoras estratégicas
+- 🌱 Constantemente ampliando conocimientos en **arquitectura de software** y **gestión de proyectos TI**
+- 📄 Revisa mi CV profesional [aquí](https://drive.google.com/file/d/1ZY21_MRxGRypoBEQ2DbfmbRpz-XSwgQQ/view?usp=sharing)
+
 <br>
 
-<!--mis tecnologias-->
+<!--tecnologías-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Mis tecnologías👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Stack Tecnológico 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--habilidades iconos-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,css,discord,firebase,github,html,java,react,vscode,replit,wordpress&perline=6" />
   </a>
 </p>
 
-<!-- conecta conmigo -->
+<!--contacto-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta conmigo🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contacto Profesional 🤝</h2></summary>
   </ul>
 </div>
 
-<!--iconos y links-->
 <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/ignacio-diego-gauto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:ignaciogauto40@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/1igna_gauto1/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.link/hmif0q" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-
-<p align="center">
-
-
-
-
+  <a href="https://www.linkedin.com/in/ignacio-diego-gauto" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="mailto:ignaciogauto40@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
+  <a href="https://wa.link/hmif0q" target="blank">
+    <img align="center" src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
+  </a>
+ 
+</p>
 
